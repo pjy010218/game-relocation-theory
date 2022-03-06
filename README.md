@@ -1,1 +1,1 @@
-# game-relocation-theory
+game-relocation-theory
