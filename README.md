@@ -2,12 +2,14 @@
 
 #### 👨‍💻 Member
 - **Kim Do YOUNG**
-  - Developer
+  - Developer / Consultant
 - **Kim Jun Sik**
-  - Developer
+  - 
 - **Park Jun YOUNG**
-  - Product Manager
-- **Park Min seok**
+  - Creative Director
+- **Yang Min Seok**
   - Designer
 - **Lee Min Jea**
-  - Developer
+  - Programmer
+- **Oh Jun Hee**
+  - Technical Lead
